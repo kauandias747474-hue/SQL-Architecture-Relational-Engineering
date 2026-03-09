@@ -1,7 +1,6 @@
-# 📊 High-Performance SQL Architecture (HPSA)
+# 📊 SQL Architecture 
 
-> **"Data is the asset; performance is the goal. The schema is the engine that drives the business."**
-> *"O dado é o ativo; a performance é o objetivo. O schema é o motor que impulsiona o negócio."*
+
 
 ![SQL](https://img.shields.io/badge/Language-SQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Engineering](https://img.shields.io/badge/Focus-Data_Engineering-green?style=for-the-badge)
